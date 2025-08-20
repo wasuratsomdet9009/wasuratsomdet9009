@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </p>
 
-📊 สถิติ GitHub (GitHub Stats)
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=wasuratsomdet9009&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Wasurat's GitHub Stats"/>
 <br/>
