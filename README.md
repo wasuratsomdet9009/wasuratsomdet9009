@@ -1,23 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Wasurat Somdet 👋</h1>
+<h3 align="center">Computer Technology Student @ KMITL</h3>
 
-<!--
-**wasuratsomdet9009/wasuratsomdet9009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
--->
+## 👨‍💻 About Me
+
+- 🎓 I'm currently studying **Computer Technology** at the **Faculty of Industrial Education and Technology, KMITL** *(คณะครุศาสตร์อุตสาหกรรมและเทคโนโลยี สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง)*
+- 💻 Passionate about programming, web development, and exploring new technologies.
+- 🌱 I’m constantly learning and expanding my skill set to become a better developer.
+- 📫 How to reach me: **[wasuratsomdet@gmail.com]** ---
+
+## 🛠️ Tech Stack & Languages
 
 <p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=wasuratsomdet9009&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Wasurat's GitHub Stats"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasuratsomdet9009&layout=compact&langs_count=8&theme=dracula" alt="Wasurat's Top Languages"/>
-</p>
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wasuratsomdet9009&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Wasurat's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasuratsomdet9009&layout=compact&langs_count=8&theme=dracula" alt="Wasurat's Top Languages" />
+</div>
