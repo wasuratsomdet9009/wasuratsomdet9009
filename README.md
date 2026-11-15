@@ -1,26 +1,16 @@
 <!-- ==================== ANIMATED HEADER BANNER ==================== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=220&section=header&text=Wasurat%20Somdet&fontSize=52&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=Computer%20Technology%20%40%20KMITL%20%7C%20Full-Stack%20Developer%20%26%20UX/UI%20Enthusiast&descAlignY=58&descSize=18" alt="Wasurat Somdet Header" />
+  <img width="100%" src="./assets/header-banner.svg" alt="Wasurat Somdet Header" />
 
   <!-- ==================== ANIMATED TYPING SVG ==================== -->
-  <a href="https://wasuratsomdet9009.github.io/Time_Table_Kmitl/portfolio_wasurat.html">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Wasurat+Somdet+(%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%95%E0%B9%8C+%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88)+%F0%9F%91%8B;Computer+Technology+Student+@+KMITL+%F0%9F%8E%93;Full-Stack+Web+Developer+%26+UX%2FUI+Designer+%F0%9F%9A%80;Building+Modern+Apps+with+Clean+Code+%26+Creativity+%E2%9C%A8" alt="Typing SVG" />
-  </a>
+  <a href="https://wasuratsomdet9009.github.io/Time_Table_Kmitl/portfolio_wasurat.html"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Wasurat+Somdet+(%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%95%E0%B9%8C+%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88)+%F0%9F%91%8B;Computer+Technology+Student+@+KMITL+%F0%9F%8E%93;Full-Stack+Web+Developer+%E2%80%A2+UX%2FUI+Designer+%F0%9F%9A%80;Building+Modern+Apps+with+Clean+Code+and+Creativity+%E2%9C%A8" alt="Typing SVG" /></a>
 
   <!-- ==================== QUICK LINKS & PROFILE BADGES ==================== -->
   <p align="center">
-    <a href="https://wasuratsomdet9009.github.io/Time_Table_Kmitl/portfolio_wasurat.html">
-      <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio_Website-FF7F00?style=for-the-badge&logoColor=white" alt="Portfolio Website" />
-    </a>
-    <a href="mailto:wasuratsomdet@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.instagram.com/raiwa_gu_wasurat/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://discord.com/users/721665946795900980">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a>
+    <a href="https://wasuratsomdet9009.github.io/Time_Table_Kmitl/portfolio_wasurat.html"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio_Website-FF7F00?style=for-the-badge&logoColor=white" alt="Portfolio Website" /></a>
+    <a href="mailto:wasuratsomdet@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.instagram.com/raiwa_gu_wasurat/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://discord.com/users/721665946795900980"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
     <img src="https://komarev.com/ghpvc/?username=wasuratsomdet9009&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
   </p>
 </div>
@@ -86,28 +76,16 @@ const wasurat = {
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/wasuratsomdet9009/ClipHub">
-    <img src="./assets/card-cliphub.svg" width="48%" alt="ClipHub - Desktop Media Manager & AI Subtitle Generator" />
-  </a>
-  <a href="https://github.com/wasuratsomdet9009/hotel-booking">
-    <img src="./assets/card-hotel-booking.svg" width="48%" alt="hotel-booking - Real-Time Hotel Booking System" />
-  </a>
+  <a href="https://github.com/wasuratsomdet9009/ClipHub"><img src="./assets/card-cliphub.svg" width="48%" alt="ClipHub - Desktop Media Manager & AI Subtitle Generator" /></a>
+  <a href="https://github.com/wasuratsomdet9009/hotel-booking"><img src="./assets/card-hotel-booking.svg" width="48%" alt="hotel-booking - Real-Time Hotel Booking System" /></a>
   <br />
-  <a href="https://wasuratsomdet9009.github.io/Time_Table_Kmitl/portfolio_wasurat.html">
-    <img src="./assets/card-portfolio.svg" width="48%" alt="Time_Table_Kmitl - Interactive Glassmorphism Portfolio" />
-  </a>
-  <a href="https://github.com/wasuratsomdet9009/project01-software-deverlopment">
-    <img src="./assets/card-billing.svg" width="48%" alt="project01-software-deverlopment - Desktop Billing & Firebase System" />
-  </a>
+  <a href="https://wasuratsomdet9009.github.io/Time_Table_Kmitl/portfolio_wasurat.html"><img src="./assets/card-portfolio.svg" width="48%" alt="Time_Table_Kmitl - Interactive Glassmorphism Portfolio" /></a>
+  <a href="https://github.com/wasuratsomdet9009/project01-software-deverlopment"><img src="./assets/card-billing.svg" width="48%" alt="project01-software-deverlopment - Desktop Billing & Firebase System" /></a>
 </div>
 
 <p align="center">
-  <a href="https://wasuratsomdet9009.github.io/Time_Table_Kmitl/portfolio_wasurat.html">
-    <img src="https://img.shields.io/badge/%F0%9F%94%A5_Live_Interactive_Portfolio-1a1b26?style=for-the-badge&logo=googlechrome&logoColor=FF7F00&labelColor=24283b" alt="Live Portfolio" />
-  </a>
-  <a href="https://github.com/wasuratsomdet9009/ClipHub/releases/latest">
-    <img src="https://img.shields.io/badge/%F0%9F%93%A6_Download_ClipHUB_(Win_%2F_macOS)-1a1b26?style=for-the-badge&logo=github&logoColor=7aa2f7&labelColor=24283b" alt="Download ClipHUB" />
-  </a>
+  <a href="https://wasuratsomdet9009.github.io/Time_Table_Kmitl/portfolio_wasurat.html"><img src="https://img.shields.io/badge/%F0%9F%94%A5_Live_Interactive_Portfolio-1a1b26?style=for-the-badge&logo=googlechrome&logoColor=FF7F00&labelColor=24283b" alt="Live Portfolio" /></a>
+  <a href="https://github.com/wasuratsomdet9009/ClipHub/releases/latest"><img src="https://img.shields.io/badge/%F0%9F%93%A6_Download_ClipHUB_(Win_%2F_macOS)-1a1b26?style=for-the-badge&logo=github&logoColor=7aa2f7&labelColor=24283b" alt="Download ClipHUB" /></a>
 </p>
 
 ---
@@ -115,18 +93,18 @@ const wasurat = {
 ## 🏆 GitHub Trophies & Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wasuratsomdet9009&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
+  <img width="98%" src="./assets/github-trophies.svg" alt="GitHub Trophies" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wasuratsomdet9009&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7" height="165" alt="GitHub Stats" />
+  <img src="./assets/github-stats.svg" height="165" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=wasuratsomdet9009&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=ff9e64&currStreakLabel=7dcfff" height="165" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasuratsomdet9009&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&langs_count=8" height="165" alt="Top Languages" />
+  <img src="./assets/top-langs.svg" height="165" alt="Top Languages" />
 </div>
 
 ---
@@ -134,7 +112,7 @@ const wasurat = {
 ## 📈 Contribution Activity & Snake Graph
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=wasuratsomdet9009&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=ff9e64&area=true" alt="Activity Graph" />
+  <img width="98%" src="./assets/activity-graph.svg" alt="Activity Graph" />
 </div>
 
 <div align="center">
@@ -150,21 +128,11 @@ const wasurat = {
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://wasuratsomdet9009.github.io/Time_Table_Kmitl/portfolio_wasurat.html">
-    <img src="https://img.shields.io/badge/Portfolio-FF7F00?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:wasuratsomdet@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/wasuratsomdet9009">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.instagram.com/raiwa_gu_wasurat/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://discord.com/users/721665946795900980">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+  <a href="https://wasuratsomdet9009.github.io/Time_Table_Kmitl/portfolio_wasurat.html"><img src="https://img.shields.io/badge/Portfolio-FF7F00?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:wasuratsomdet@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/wasuratsomdet9009"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/raiwa_gu_wasurat/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://discord.com/users/721665946795900980"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
 
 <p align="center">
@@ -173,5 +141,5 @@ const wasurat = {
 
 <!-- ==================== ANIMATED FOOTER BANNER ==================== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=120&section=footer" alt="Footer Wave" />
+  <img width="100%" src="./assets/footer-banner.svg" alt="Footer Wave" />
 </div>

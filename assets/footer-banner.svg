@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="110" viewBox="0 0 1000 110" fill="none">
+  <defs>
+    <linearGradient id="fWave1" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1a1b26" stop-opacity="0.95"/>
+      <stop offset="50%" stop-color="#7aa2f7" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#bb9af7" stop-opacity="0.45"/>
+    </linearGradient>
+    <linearGradient id="fWave2" x1="1000" y1="0" x2="0" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#16161e" stop-opacity="0.95"/>
+      <stop offset="50%" stop-color="#bb9af7" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#7dcfff" stop-opacity="0.35"/>
+    </linearGradient>
+    <linearGradient id="bottomBar" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7aa2f7"/>
+      <stop offset="50%" stop-color="#bb9af7"/>
+      <stop offset="100%" stop-color="#ff9e64"/>
+    </linearGradient>
+  </defs>
+
+  <path fill="url(#fWave1)" d="M0,40 C250,90 450,5 700,50 C850,75 940,25 1000,40 L1000,110 L0,110 Z">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="
+        M0,40 C250,90 450,5 700,50 C850,75 940,25 1000,40 L1000,110 L0,110 Z;
+        M0,55 C250,10 480,85 720,35 C860,15 940,65 1000,45 L1000,110 L0,110 Z;
+        M0,40 C250,90 450,5 700,50 C850,75 940,25 1000,40 L1000,110 L0,110 Z
+      " />
+  </path>
+
+  <path fill="url(#fWave2)" d="M0,60 C280,15 520,95 760,45 C890,20 960,70 1000,55 L1000,110 L0,110 Z">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="
+        M0,60 C280,15 520,95 760,45 C890,20 960,70 1000,55 L1000,110 L0,110 Z;
+        M0,45 C260,95 500,20 740,65 C880,85 950,35 1000,60 L1000,110 L0,110 Z;
+        M0,60 C280,15 520,95 760,45 C890,20 960,70 1000,55 L1000,110 L0,110 Z
+      " />
+  </path>
+
+  <text x="500" y="92" fill="#a9b1d6" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" font-weight="600" text-anchor="middle">Designed &amp; Built by Wasurat Somdet (wasuratsomdet9009)  •  KMITL</text>
+  <rect x="0" y="106" width="1000" height="4" rx="2" fill="url(#bottomBar)"/>
+</svg>

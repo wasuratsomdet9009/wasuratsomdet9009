@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" fill="none">
+  <defs>
+    <linearGradient id="headerBg" x1="0" y1="0" x2="1000" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#16161e"/>
+      <stop offset="45%" stop-color="#1a1b26"/>
+      <stop offset="100%" stop-color="#24283b"/>
+    </linearGradient>
+    <linearGradient id="waveGrad1" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.25"/>
+      <stop offset="50%" stop-color="#bb9af7" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#7dcfff" stop-opacity="0.25"/>
+    </linearGradient>
+    <linearGradient id="waveGrad2" x1="1000" y1="0" x2="0" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#bb9af7" stop-opacity="0.20"/>
+      <stop offset="50%" stop-color="#7aa2f7" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#ff9e64" stop-opacity="0.18"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="250" y1="0" x2="750" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#c0caf5"/>
+      <stop offset="50%" stop-color="#7aa2f7"/>
+      <stop offset="100%" stop-color="#bb9af7"/>
+    </linearGradient>
+    <linearGradient id="topLine" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7aa2f7"/>
+      <stop offset="50%" stop-color="#bb9af7"/>
+      <stop offset="100%" stop-color="#ff9e64"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="195" rx="14" fill="url(#headerBg)"/>
+  <rect width="1000" height="4" rx="2" fill="url(#topLine)"/>
+
+  <!-- Decorative Glowing Orbs -->
+  <circle cx="140" cy="60" r="75" fill="#7aa2f7" fill-opacity="0.08"/>
+  <circle cx="860" cy="70" r="85" fill="#bb9af7" fill-opacity="0.08"/>
+  <circle cx="500" cy="40" r="110" fill="#7dcfff" fill-opacity="0.05"/>
+
+  <!-- Animated Wave Layer 1 -->
+  <path fill="url(#waveGrad1)" d="M0,145 C220,195 380,105 620,155 C800,190 910,130 1000,150 L1000,220 L0,220 Z">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="
+        M0,145 C220,195 380,105 620,155 C800,190 910,130 1000,150 L1000,220 L0,220 Z;
+        M0,160 C240,115 420,195 650,140 C820,110 920,175 1000,145 L1000,220 L0,220 Z;
+        M0,145 C220,195 380,105 620,155 C800,190 910,130 1000,150 L1000,220 L0,220 Z
+      " />
+  </path>
+
+  <!-- Animated Wave Layer 2 -->
+  <path fill="url(#waveGrad2)" d="M0,165 C280,120 460,205 720,150 C860,125 940,180 1000,165 L1000,220 L0,220 Z">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="
+        M0,165 C280,120 460,205 720,150 C860,125 940,180 1000,165 L1000,220 L0,220 Z;
+        M0,150 C260,200 480,120 700,175 C850,195 930,140 1000,160 L1000,220 L0,220 Z;
+        M0,165 C280,120 460,205 720,150 C860,125 940,180 1000,165 L1000,220 L0,220 Z
+      " />
+  </path>
+
+  <!-- Subtle Code Accents -->
+  <text x="45" y="55" fill="#3b4261" font-family="monospace" font-size="14">&lt;developer profile="TokyoNight" /&gt;</text>
+  <text x="955" y="55" fill="#3b4261" font-family="monospace" font-size="14" text-anchor="end">KMITL // BKK-SRI</text>
+
+  <!-- Main Title -->
+  <text x="500" y="92" fill="url(#titleGrad)" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-weight="800" font-size="48" text-anchor="middle" letter-spacing="1">Wasurat Somdet</text>
+
+  <!-- Subtitle -->
+  <text x="500" y="128" fill="#a9b1d6" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-weight="600" font-size="18" text-anchor="middle">Computer Technology @ KMITL  •  Full-Stack Developer &amp; UX/UI Enthusiast</text>
+
+  <!-- Tag Pill -->
+  <rect x="370" y="144" width="260" height="24" rx="12" fill="#16161e" fill-opacity="0.75" stroke="#7aa2f7" stroke-width="1"/>
+  <text x="500" y="160" fill="#7dcfff" font-family="monospace" font-weight="600" font-size="12" text-anchor="middle">⚡ Clean Code • Creative UX/UI</text>
+</svg>
